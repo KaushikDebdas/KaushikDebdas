@@ -13,17 +13,6 @@
   <a href="https://twitter.com/debdas_kaushik">
     <img src="https://img.shields.io/badge/-debdas_kaushik-blue?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-</div><div align="center">
-  <a href="https://www.linkedin.com/in/amitkbiswas01/">
-    <img src="https://img.shields.io/badge/-Amit_Biswas-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:amitkbiswas01@gmail.com">
-    <img
-      src="https://img.shields.io/badge/-amitkbiswas01@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/amitb__b">
-    <img src="https://img.shields.io/badge/-amitb__b-blue?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
 </div>
 
 # SKILLS
