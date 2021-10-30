@@ -27,7 +27,7 @@
 - C
 - C++
 
-## **Tech Experiences**
+## Tech Experiences
 
 <table>
   <tbody>
