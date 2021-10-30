@@ -76,4 +76,4 @@
 
 # GitHub STATE
 
-![KaushikDebdas stats](https://github-readme-stats.vercel.app/api?username=KaushikDebdas&count_private=true&show_icons=true&theme=radical)
+![KaushikDebdas's stats](https://github-readme-stats.vercel.app/api?username=KaushikDebdas&count_private=true&show_icons=true&theme=radical)
