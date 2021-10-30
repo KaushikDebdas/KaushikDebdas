@@ -42,7 +42,7 @@
         <img
           src="https://img.shields.io/badge/platform.sh-FFFFFF?style=for-the-badge&color=black&logo=Platform.sh&logoColor=which" />
         <img alt="HTML"
-          src="https://img.shields.io/badge/html-FFFFFF?style=for-the-badge&color=black&logo=Platform.sh&logoColor=which" />
+          src="https://img.shields.io/badge/html-FFFFFF?style=for-the-badge&color=html&logo=Platform.sh&logoColor=white" />
       </td>
     </tr>
     <tr>
