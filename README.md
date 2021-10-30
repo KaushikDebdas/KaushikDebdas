@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄 I am Kaushik Debdas, a Web Developer & Designer.
+😄 I am <strong>Kaushik Debdas</strong>, a Web Developer & Designer.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kaushik-debdas-233589208/">
