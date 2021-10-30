@@ -41,6 +41,8 @@
           src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&color=42759C&logo=mysql&logoColor=white" />
         <img
           src="https://img.shields.io/badge/platform.sh-FFFFFF?style=for-the-badge&color=black&logo=Platform.sh&logoColor=which" />
+        <img alt="HTML"
+          src="https://img.shields.io/badge/html-FFFFFF?style=for-the-badge&color=black&logo=Platform.sh&logoColor=which" />
       </td>
     </tr>
     <tr>
