@@ -3,14 +3,14 @@
 😄 I am <strong>Kaushik Debdas</strong>, a Web Developer & Designer.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kaushik-debdas-233589208/">
+  <a href="https://www.linkedin.com/in/kaushik-debdas-233589208/" target="_blank">
     <img src="https://img.shields.io/badge/-Kaushik_Debdas-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="mailto:kaushikdebdas27@gmail.com">
+  <a href="mailto:kaushikdebdas27@gmail.com" target="_blank">
     <img
       src="https://img.shields.io/badge/-kaushikdebdas27@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/debdas_kaushik">
+  <a href="https://twitter.com/debdas_kaushik" target="_blank">
     <img src="https://img.shields.io/badge/-debdas_kaushik-blue?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
