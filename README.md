@@ -2,6 +2,30 @@
 
 😄 I am Kaushik Debdas, a Web Developer & Designer.
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/kaushik-debdas-233589208/">
+    <img src="https://img.shields.io/badge/-Kaushik_Debdas-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kaushikdebdas27@gmail.com">
+    <img
+      src="https://img.shields.io/badge/-kaushikdebdas27@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/debdas_kaushik">
+    <img src="https://img.shields.io/badge/-debdas_kaushik-blue?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div><div align="center">
+  <a href="https://www.linkedin.com/in/amitkbiswas01/">
+    <img src="https://img.shields.io/badge/-Amit_Biswas-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:amitkbiswas01@gmail.com">
+    <img
+      src="https://img.shields.io/badge/-amitkbiswas01@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/amitb__b">
+    <img src="https://img.shields.io/badge/-amitb__b-blue?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
+
 # SKILLS
 
 - HTML
@@ -24,10 +48,6 @@
         <img src="https://img.shields.io/badge/PHP7+-777BB4?style=for-the-badge&logo=php&logoColor=white" />
         <img alt="Javascript"
           src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-        <img alt="Vue"
-          src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-        <img alt="Drupal"
-          src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" />
         <img alt="MySQL"
           src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&color=42759C&logo=mysql&logoColor=white" />
         <img
@@ -43,14 +63,8 @@
           src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
         <img alt="React"
           src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img alt="TailwindCSS"
-          src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-        <img alt="PostgreSQL"
-          src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
         <img alt="MongoDB"
           src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img alt="Azure"
-          src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
       </td>
     </tr>
     <tr>
