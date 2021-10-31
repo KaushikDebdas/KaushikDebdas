@@ -32,16 +32,6 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
-- HTML
-- CSS
-- JavaScript
-- Python
-- Django
-- PHP
-- Laravel
-- C
-- C++
-
 ## Tech Experiences
 
 <table>
@@ -79,7 +69,8 @@
         <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
         <img alt="VS code"
           src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-        ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+        <img alt=""
+             src="![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)"/>
       </td>
     </tr>
   </tbody>
