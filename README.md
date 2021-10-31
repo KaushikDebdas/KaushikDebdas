@@ -40,7 +40,7 @@
         <img alt="MySQL"
           src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&color=42759C&logo=mysql&logoColor=white" />
         <img alt="HTML5" 
-             src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani")(https://github.com/BRdhanani)
+             src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani" />
       </td>
     </tr>
     <tr>
