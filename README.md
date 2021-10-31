@@ -49,6 +49,7 @@
     <tr>
       <td align="center"> <h4>FAMILIAR WITH</h4> </td>
       <td align="center">
+        ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
         <img alt="Python"
           src="https://img.shields.io/badge/Python-356C9B?style=for-the-badge&logo=python&logoColor=white" />
         <img alt="Django"
@@ -70,7 +71,7 @@
         <img alt="VS code"
           src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
         <img alt=""
-             src="![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)"/>
+             src=" https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
       </td>
     </tr>
   </tbody>
