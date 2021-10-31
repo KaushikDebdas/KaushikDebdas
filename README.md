@@ -39,8 +39,6 @@
           src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
         <img alt="MySQL"
           src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&color=42759C&logo=mysql&logoColor=white" />
-        <img alt="HTML5" 
-             src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-bagde&logo=html5&logoColor=white&link=https://github.com/BRdhanani" />
       </td>
     </tr>
     <tr>
