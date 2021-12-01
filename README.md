@@ -86,3 +86,8 @@
 
 # Activity Graph
 [![Kaushik's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KaushikDebdas&theme=tokyonight)](https://git.io/praveenscience)
+
+## Github Stats :
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=acervenky&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<p href="https://github.com/arturssmirnovs/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/acervenky"></p>
