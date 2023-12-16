@@ -1,6 +1,14 @@
 ### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
-😄 I am <strong>Kaushik Debdas</strong>, a Web Developer & Designer.
+😄 I am <strong>Kaushik Debdas</strong>,
+
+🚀 As a passionate Software Quality Assurance Engineer, Web Developer, and Designer, I thrive on transforming ideas into seamless, high-quality software experiences. My journey in the tech realm involves a blend of meticulous testing, creative web development, and intuitive design.
+
+🧪 Quality Assurance Engineer: With a keen eye for detail, I specialize in ensuring the reliability and performance of software through comprehensive testing. From functional to performance testing, I am dedicated to delivering software that not only meets but exceeds expectations.
+
+💻 Web Developer: Crafting interactive and user-friendly web applications is my forte. Proficient in a variety of technologies and frameworks, I enjoy building robust solutions that marry functionality with aesthetics.
+
+🎨 Designer: Design is not just about aesthetics; it's about enhancing user experiences. I bring creativity to the forefront, combining design principles with user-centric approaches to create visually appealing and intuitive interfaces.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kaushik-debdas-233589208/" target="_blank">
