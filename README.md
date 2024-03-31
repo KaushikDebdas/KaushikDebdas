@@ -92,7 +92,5 @@
 # GitHub STATE
 ![KaushikDebdas's stats](https://github-readme-stats.vercel.app/api?username=KaushikDebdas&count_private=true&show_icons=true&theme=radical)
 
-# Activity Graph
-[![Kaushik's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KaushikDebdas&theme=tokyonight)](https://git.io/praveenscience)
 
 
